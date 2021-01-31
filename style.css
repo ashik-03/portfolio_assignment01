@@ -2,14 +2,16 @@
     text-align: right;
 }
 #a{
-    color: brown;
+    color: rgb(146, 9, 9);
+    text-decoration: none;
 }
 #aa{
     color: rgb(179, 34, 77);
     background-color: rgb(75, 121, 121);
     border: solid;
     border-color: darkturquoise;
-    width: 65px;
+    width: 70px;
+    text-align: center;
     border-radius: 3px;
 }
 .cc img{
@@ -20,8 +22,7 @@
     border: solid;
     border-color: rgb(160, 28, 100);
     border-radius: 9px;
-    padding-right: 2%;
-    padding-left: 2%;
+    padding: 2% 2% 2% 2%;
     width: 25%;
     float: left;
     margin-left: 3%;
@@ -33,23 +34,25 @@
     color: blueviolet;
     border: solid;
     border-color: rgb(118, 218, 37);
-    border-radius: 7%;
-    width: 16.5%;
+    width: 30%;
     height: 17px;
+    text-align: center;
     text-decoration: none;
     background-color: darkcyan;
 }
+.ac img{
+    width: 100%;
+}
 .ac{
     width: 40%;
-}
-.ac img{
-    width: 60%;
+    float: left;
+    margin: 3%;
 }
 .h{
     border: solid;
     border-color: hotpink;
     text-align: center;
 }
-.s img{
+.ss img{
     width: 100%;
 }

@@ -53,6 +53,9 @@
     border-color: hotpink;
     text-align: center;
 }
+.ss{
+    text-align: center;
+}
 .ss img{
-    width: 100%;
+    width: 50%;
 }
